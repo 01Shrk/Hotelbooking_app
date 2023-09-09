@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "692744002285",
+    "project_id": "travolenceshrikant",
+    "storage_bucket": "travolenceshrikant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692744002285:android:ee2a2217eaa8f25ae64ae4",
+        "android_client_info": {
+          "package_name": "com.example.travolence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692744002285-nita60a8nv06gfohnl8vipmkqpo0a5ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travolence",
+            "certificate_hash": "3de69f0f50ef3fb9e1dd701b195cf7247b416bac"
+          }
+        },
+        {
+          "client_id": "692744002285-m3j8ts5hfjkktign23bp2dootplhhtop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdEkvwv8fkq-g8dtbiZw4LoulFKxiKabE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692744002285-m3j8ts5hfjkktign23bp2dootplhhtop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
